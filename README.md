@@ -15,6 +15,10 @@ An end-to-end sales performance analysis project built with **SQLite** and **Pow
 - **Monthly Sales Trend:** Year-over-year and month-by-month sales trajectory (`order_year`, `order_month`)
 - **Quarterly Sales Performance:** Quarterly revenue, orders, and units across `Q1`–`Q4`
 
+
+<img width="1021" height="592" alt="Screenshot 2026-11-27 205749" src="https://github.com/user-attachments/assets/68f10fb3-02a8-44ad-ad12-d79a11cc6f2c" />
+
+
 ## Repository Structure
 - `sales_analysis.sql` — SQLite queries for metric validation and multi-dimensional sales analysis
 - `sales_dashboard.pbix` — Interactive Power BI report with DAX measures and dynamic slicers
